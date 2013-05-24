@@ -7,10 +7,43 @@ i{padding-top:0px; position: relative; top:2px}
 ::selection {background: #3d74ad; color:#3d74ad;  /* Safari */}
 ::-moz-selection {background: #3d74ad; color:#fff; /* Firefox */}
 
-.navbar_inner{position: relative;}
-.brand{display: block; position: absolute; top:0; left:40px;}
 
-.hero{background:url(../images/hero/cake.jpg) no-repeat center; background-size: cover; padding:60px 0;}
-.hero .intro{background:#f2eddc; opacity: 0.9; padding:20px; border-radius: 5px}
-.hero .intro h1{color:#e28e76;}
+/* typography */
+h1,h2,h3, p.lead{font-family: 'Bree Serif', serif;}
+p, ul li{font-family: 'Open Sans', sans-serif;}
+
+h1{font-size:40px; line-height: 46px;}
+p{font-size: 12px;}
+p.lead{font: 20px; line-height: 24px;}
+
+/* overall */
+section{padding:60px 0;}
+
+a{transition: all .1s ease-in-out; -moz-transition: all .1s ease-in-out; -webkit-transition: all .1s ease-in-out;}
+a:hover{text-decoration: none;}
+
+.navbar{margin-bottom:60px;}
+.navbar .navbar-inner{background:rgba(255,255,255,0.6); padding:10px 0 10px 80px; border:1px solid #fff; border-radius: 0; box-shadow: none;}
+.brand{display: block; position: absolute; top:15px; left:40px;}
+.navbar .nav > li > a{padding:10px 30px; color:#784f36; font-weight: 800; text-transform: uppercase; text-shadow: none; font-size: 16px; position: relative; bottom:0; text-align: center;}
+.navbar .nav > li > a span{display: block; font-size:23px; padding-bottom:10px; color:#e28e76;}
+.navbar .nav > li > a:hover{bottom:5px;}
+
+.hero{background:url(../images/hero/cake.jpg)no-repeat center fixed; background-size: cover; padding:60px 0 70px;}
+.hero .intro{background:#f2eddc; opacity: 0.9;}
+.hero .intro h1{color:#e28e76; font-weight: normal;}
 .hero .intro h1 em{color:#784f36; font-style: normal;}
+.hero .intro .intro_heading{padding:0 0 0 20px;}
+.hero .intro .intro_section{padding: 0 20px 20px 0;}
+.hero .intro .intro_section p.lead{padding-top:20px;}
+
+.about{background: url(../images/about/backer.png) #c4e0dc; margin-top:-5px; text-align: center;}
+.about .heading{padding-bottom:30px;}
+.about p.lead{padding-bottom:40px; color:#666;}
+.about .thing{padding:0 20px 20px; background:#fff; margin-bottom:30px; min-height: 160px; border-top:40px solid #e2f0ee; border-radius: 5px; box-shadow: 0 3px 3px rgba(0,0,0,0.3)}
+.about .thing img{margin:0 auto; display:block;margin-top:-70px; padding-bottom:20px;}
+.about .thing p{font-size:18px; line-height: 24px;}
+
+.details{background:#f2d5ad;}
+
+
