@@ -1,0 +1,16 @@
+/* chin isnt even scarrd of th codse */
+
+/* overall hacks */
+/* ------------------------------------------------------------------------------------------------- */
+.icon{background-image:none !important;} /* remove bootstrap icons */
+i{padding-top:0px; position: relative; top:2px}
+::selection {background: #3d74ad; color:#3d74ad;  /* Safari */}
+::-moz-selection {background: #3d74ad; color:#fff; /* Firefox */}
+
+.navbar_inner{position: relative;}
+.brand{display: block; position: absolute; top:0; left:40px;}
+
+.hero{background:url(../images/hero/cake.jpg) no-repeat center; background-size: cover; padding:60px 0;}
+.hero .intro{background:#f2eddc; opacity: 0.9; padding:20px; border-radius: 5px}
+.hero .intro h1{color:#e28e76;}
+.hero .intro h1 em{color:#784f36; font-style: normal;}
