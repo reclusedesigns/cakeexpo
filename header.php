@@ -9,7 +9,9 @@
 	
 	<!-- vendor files -->
 	<link rel="stylesheet" href="design/vendor/bootstrap/css/bootstrap.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="design/vendor/ss-social/ss-social-circle.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/ss-pika/ss-pika.css" type="text/css" media="screen" charset="utf-8">
+	
 	
 	<!-- muay styles -->
 	<link rel="stylesheet" href="design/css/layout.css" type="text/css" media="screen" charset="utf-8">
@@ -19,9 +21,10 @@
 	<!-- the javascriptage -->
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
 	<script src="design/vendor/bootstrap/js/bootstrap.js" type="text/javascript" charset="utf-8"></script>
+	<script src="design/vendor/ss-social/ss-social-circle.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/vendor/ss-pika/ss-pika.js" type="text/javascript" charset="utf-8"></script>
-	<script src="design/vendor/ss-standard/ss-standard.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/vendor/scrollto.js" type="text/javascript" charset="utf-8"></script>
+	<script src="design/vendor/social_counter/socialcounter.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
 	<!-- google fonts -->
