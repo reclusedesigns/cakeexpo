@@ -10,46 +10,48 @@ i{padding-top:0px; position: relative; top:2px}
 
 /* typography */
 h1,h2,h3, p.lead{font-family: 'Bree Serif', serif;}
-p, ul li{font-family: 'Open Sans', sans-serif;}
+p, ul li{font-family: 'Raleway', sans-serif;}
+.navbar .nav > li > a{font-family: 'Open Sans', sans-serif;}
+
 
 h1{font-size:45px; line-height: 50px; }
-p{font-size: 12px;}
+p{font-size: 16px;}
 p.lead{font: 20px; line-height: 24px;}
 
 /* overall */
-section{padding:60px 0;}
+section{padding:160px 0 80px;}
 
 a{transition: all .1s ease-in-out; -moz-transition: all .1s ease-in-out; -webkit-transition: all .1s ease-in-out;}
 a:hover{text-decoration: none;}
 
 .navbar{margin-bottom:60px;}
-.navbar .navbar-inner{background:rgba(255,255,255,0.6); padding:10px 0 10px 80px; border:1px solid #fff; border-radius: 0; box-shadow: none;}
-.brand{display: block; position: absolute; top:15px; left:40px;}
+.navbar .navbar-inner{background:rgba(255,255,255,0.6); padding:10px 0 10px 80px; border:1px solid #fff; border-radius: 0; box-shadow: none;  width:1170px; margin:0 auto; top:40px; position: relative;}
+.brand{display: block; position: absolute; left:-60px; top:-30px;;}
 .navbar .nav > li > a{padding:10px 30px; color:#784f36; font-weight: 800; text-transform: uppercase; text-shadow: none; font-size: 16px; position: relative; bottom:0; text-align: center;}
 .navbar .nav > li > a span{display: block; font-size:23px; padding-bottom:10px; color:#e28e76;}
 .navbar .nav > li > a:hover{bottom:5px;}
 .navbar .fb{color:#3b5998;}
 
-.hero{background:url(../images/hero/cake.jpg)no-repeat center fixed; background-size: cover; padding:60px 0 70px;}
-.hero .intro{background:rgba(255,255,255,0.9);}
+.hero{background:url(../images/hero/cake.jpg)no-repeat center fixed; background-size: cover; padding:180px 0 70px;}
+.hero .intro{background:rgba(255,255,255,0.7); border-radius: 5px;}
 .hero h1{color:#fff; font-weight: normal; text-align: center; text-shadow: 0 2px 2px rgba(0,0,0,0.3); padding-bottom:30px;}
 .hero h1 em{color:#fff; font-style: normal;}
 .hero .intro .intro_heading{padding:0 0 0 20px;}
 .hero .intro .intro_section{padding:20px;}
-.hero .intro .intro_section p{font-size:16px;}
+.hero .intro .intro_section p{font-size:20px; line-height: 26px; text-align: justify;}
 
 
 .about{background: url(../images/about/backer.png) #c4e0dc; margin-top:-5px; text-align: center;}
 .about .heading{padding-bottom:30px;}
-.about p.lead{padding-bottom:40px; color:#666;}
 .about h3{color:#e28e76;}
-.about .thing{padding: 0; background:#fff; margin-bottom:30px; min-height: 360px; border-radius: 5px; box-shadow: 0 3px 3px rgba(0,0,0,0.3)}
-.about .thing img{display:block; border-radius: 5px 5px 0 0;}
-.about .thing p{font-size:14px; line-height: 20px; padding: 0 20px 20px; color:#666;}
+.about .thing{padding: 0; margin-bottom:30px; min-height: 360px; border-radius: 5px; }
+.about .thing img{display:block; border-radius: 5px; box-shadow: 0 3px 2px rgba(0,0,0,0.5); border: 2px solid #fff;}
+.about .thing p{font-size:20px; line-height: 30px; padding: 0 20px 20px; color:#333;}
 
 .details{background:url(../images/details/backer.jpg) center center no-repeat #f2d5ad fixed; background-size: cover;  text-align: center;}
 .details h2{font-size:50px; padding-bottom:20px;}
-.details p{font-size:16px;}
+.details p{font-size:20px; line-height: 30px;}
+.details .info{padding-top: 20px;}
 .details .info i{color:#e28e77; font-size:40px !important;}
 .details .details_backer{background: rgba(255,255,255,0.8); padding:20px;position: relative;}
 .details .details_backer i{font-size: 80px;}
@@ -57,7 +59,7 @@ a:hover{text-decoration: none;}
 
 .participate{background:#e28e76; text-align: center;}
 .participate h2{font-size:50px; color:#ece5cd; padding-bottom: 20px; line-height: 60px;}
-.participate p{font-size:16px; color:#fff; line-height: 24px;}
+.participate p{font-size:20px; color:#fff; line-height: 30px; padding-bottom:20px;}
 .participate a:hover{opacity: 0.8;}
 .participate .contact_buttons{padding-top:30px;}
 .participate .contact_buttons a{color:#63827e; padding:20px; border-radius: 5px; background:#c4e0dc; margin: 0 5px; font-size:16px; }

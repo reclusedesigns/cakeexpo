@@ -28,7 +28,8 @@
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
 	<!-- google fonts -->
-<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,700|Bree+Serif|Open+Sans:400,800' rel='stylesheet' type='text/css'>
+
 
 	
 </head>

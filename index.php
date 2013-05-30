@@ -3,7 +3,7 @@
 <div class="hero">
 	<div class="container">
 		
-		<div class="navbar">
+		<div class="navbar navbar-fixed-top">
 		  <div class="navbar-inner">
 		    <div class="container">
 		 
@@ -16,9 +16,10 @@
 		      <!-- Everything you want hidden at 940px or less, place within here -->
 		      <div class="nav-collapse collapse">
 						<ul class="nav">
-							<li><a href="#about" class="scrollto_js"><span><i class="icon ss-heartbook"></i></span>About</a></li>
-							<li><a href="#"><span><i class="icon ss-location"></i></span>Details</a></li>
-							<li><a href="#"><span><i class="icon ss-like"></i></span>Participate</a></li>
+							<li><a href="#about"><span><i class="icon ss-heartbook"></i></span>About</a></li>
+							<li><a href="#details"><span><i class="icon ss-location"></i></span>Details</a></li>
+							<li><a href="#participate"><span><i class="icon ss-like"></i></span>Participate</a></li>
+							<li><a href="#participate"><span><i class="icon ss-users"></i></span>Partners</a></li>
 						</ul>
 						<ul class="nav pull-right">
 							<li><a href="#"><span><i class="icon ss-social-circle ss-facebook fb"></i></span>Like us!</a></li>
@@ -60,18 +61,16 @@
 	</div>
 </div> <!-- hero -->
 
-<section class="about">
+<section class="about" id="about">
 	<div class="container">
 		<img class="heading" src="design/images/about/things.png" alt="things" />
-		<p class="lead">Stalls – cake and cupcake stalls, cupcake equipment stalls, cake ingredient suppliers, cake decorating schools, cake societies and pretty much everything else cake related.
-		</p>
 		
 		<div class="row">
 			<div class="span4">
 				<div class="thing">
 					<img src="design/images/about/1.jpg" alt="1"/>
 					<h3>Expo Stalls</h3>
-					<p>Stalls from cake, cupcake and cake equipment businesses, suppliers, cake schools, cake clubs and pretty much everything else cake</p>
+					<p>From cake, cupcake and cake equipment businesses, suppliers, cake schools, cake clubs and pretty much everything else cake</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -85,7 +84,7 @@
 				<div class="thing">
 					<img src="design/images/about/6.jpg" alt="1"/>
 					<h3>Cake decorating tutorials</h3>
-					<p>Get your hands deliciously dirty with our live cake tutorials, you’ll be doin it like the professionals in no time</p>
+					<p>Get your hands deliciously dirty with our live cake tutorials, you&rsquo;ll be doin&rsquo; it like the professionals in no time!</p>
 				</div>
 			</div>
 		</div>
@@ -94,7 +93,7 @@
 				<div class="thing">
 					<img  src="design/images/about/4.jpg" alt="1"/>
 					<h3>Cake decorating competitions</h3>
-					<p>Check out the good, the fad and the lovely with our cake competitions. With multiple categories opened to the beginners and experts. Registrations open soon.
+					<p>Check out the good, the fads and the lovely with our cake competitions. With multiple categories opened to the beginners and experts. Registrations open soon.
 					</p>
 				</div>
 			</div>
@@ -102,7 +101,7 @@
 				<div class="thing">
 					<img src="design/images/about/5.jpg" alt="1"/>
 					<h3>Exclusive giveaways</h3>
-					<p>Our generous sponsors and stall holders have made sure you get the most out of your cake-venture through organising goodies and exclusive specials.
+					<p>Our generous sponsors and stall holders have made sure you get the most out of your cakeventure through organising goodies and exclusive specials.
 					</p>
 				</div>
 			</div>
@@ -120,7 +119,7 @@
 
 </section>
 
-<section class="details">
+<section class="details" id="details">
 	<div class="container">
 		<div class="row">
 			<div class="span6 offset3">
@@ -138,7 +137,7 @@
 	</div>
 </section>
 
-<section class="participate">
+<section class="participate" id="participate">
 	<div class="container">
 		<div class="row">
 			<div class="span6 offset3">
@@ -154,5 +153,11 @@
 	</div>
 </section>
 
+
+<section class="partners" id="partners">
+	<div class="container">
+		<h2>Our Partners</h2>
+	</div>
+</section>
 
 <?php include 'footer.php'; ?>
