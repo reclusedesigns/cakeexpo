@@ -19,10 +19,10 @@
 							<li><a href="#about"><span><i class="icon ss-heartbook"></i></span>About</a></li>
 							<li><a href="#details"><span><i class="icon ss-location"></i></span>Details</a></li>
 							<li><a href="#participate"><span><i class="icon ss-like"></i></span>Participate</a></li>
-							<li><a href="#participate"><span><i class="icon ss-users"></i></span>Partners</a></li>
+							<li><a href="#partners"><span><i class="icon ss-users"></i></span>Partners</a></li>
 						</ul>
 						<ul class="nav pull-right">
-							<li><a href="#"><span><i class="icon ss-social-circle ss-facebook fb"></i></span>Like us!</a></li>
+							<li><a href="http://www.facebook.com/CakeExpo" target="_blank"><span><i class="icon ss-social-circle ss-facebook fb"></i></span>Like us!</a></li>
 						</ul>
 		      </div>
 		 
@@ -126,10 +126,10 @@
 				<div class="details_backer">
 					<img src="design/images/details/ribbon.png" alt="ribbon" />
 					<div class="info">
-						<i class="icon ss-deletecalendar"></i> 
+						<i class="icon ss-deletecalendar"></i>
 						<h2>Where and When</h2>
 						<p>We’re currently finalising dates and venues and will update you on where a Cake Expo near you will be held and when. </p>
-						<p><a href="#">Like us on Facebook for regular updates!</a></p>
+						<p><a href="http://www.facebook.com/CakeExpo" target="_blank">Like us on Facebook for regular updates!</a></p>
 					</div>
 				</div>
 			</div>
@@ -143,12 +143,12 @@
 			<div class="span6 offset3">
 				<h2>Want to participate as a stall holder?</h2>
 				<p>Register your interest by completing the online form and we’ll send out all the information you need.</p>
-				<a href="#"><img src="design/images/participate/button.png" alt="button" /></a>
+				<a href="http://docs.google.com/a/cakeplease.com.au/spreadsheet/viewform?formkey=dG1TenFKa1ZUX01WcE92Yzd3T3BuV2c6MQ"><img src="design/images/participate/button.png" alt="button" /></a>
 			</div>
 		</div>
 		<div class="contact_buttons">
 			<a href="mailto:lien@cakeplease.com.au"><i class="icon ss-mail"></i> Email Us</a>
-			<a href="#"><i class="icon ss-like"></i> Like Us</a>
+			<a href="http://www.facebook.com/CakeExpo" target="_blank"><i class="icon ss-like"></i> Like Us</a>
 		</div>
 	</div>
 </section>
@@ -156,7 +156,15 @@
 
 <section class="partners" id="partners">
 	<div class="container">
-		<h2>Our Partners</h2>
+		<img class="heading" src="design/images/partners/heading.png" alt="heading"/>
+		<div class="partner_list">
+			<a target="_blank" href="http://cakeplease.com.au">
+				<img  src="design/images/partners/cakeplease.jpg" alt="cakeplease" />
+			</a>
+			<a target="_blank" href="http://yum-mammas.com">
+				<img src="design/images/partners/yummummas.jpg" alt="yummummas" />
+			</a>
+		</div>
 	</div>
 </section>
 
