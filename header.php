@@ -6,6 +6,10 @@
 	<meta name="author" content="Draftable">
 	<meta name="viewport" content="width-device-width, initial-scale=1.0">
 	
+	<!-- favicon -->
+	<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
+	<link rel="shortcut icon" type="image/png" href="http://www.example.com/favicon.ico" />
+
 	
 	<!-- vendor files -->
 	<link rel="stylesheet" href="design/vendor/bootstrap/css/bootstrap.css" type="text/css" media="screen" charset="utf-8">

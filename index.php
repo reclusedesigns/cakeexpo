@@ -143,7 +143,7 @@
 			<div class="span6 offset3">
 				<h2>Want to participate as a stall holder?</h2>
 				<p>Register your interest by completing the online form and we’ll send out all the information you need.</p>
-				<a href="http://docs.google.com/a/cakeplease.com.au/spreadsheet/viewform?formkey=dG1TenFKa1ZUX01WcE92Yzd3T3BuV2c6MQ"><img src="design/images/participate/button.png" alt="button" /></a>
+				<a target="_blank" href="https://docs.google.com/a/reclusedesigns.com.au/spreadsheet/viewform?formkey=dG1TenFKa1ZUX01WcE92Yzd3T3BuV2c6MQ"><img src="design/images/participate/button.png" alt="button" /></a>
 			</div>
 		</div>
 		<div class="contact_buttons">
