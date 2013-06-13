@@ -31,9 +31,9 @@
 	<script src="design/vendor/social_counter/socialcounter.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
-	<!-- google fonts -->
-<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,700|Bree+Serif|Open+Sans:400,800' rel='stylesheet' type='text/css'>
-
+	<!-- typekit -->
+	<script type="text/javascript" src="//use.typekit.net/ahb1aqa.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 	
 </head>

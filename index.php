@@ -1,171 +1,75 @@
 <?php include 'header.php'; ?>
 
-<div class="hero">
-	<div class="container">
-		
-		<div class="navbar navbar-fixed-top">
-		  <div class="navbar-inner">
-		    <div class="container">
-		 
-		      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-		        <i class="icon ss-rows"></i> 
-		      </a>
-		 
-		      <a class="brand" href="#"><img src="design/images/logo.png" alt="logo" /></a>
-		 
-		      <!-- Everything you want hidden at 940px or less, place within here -->
-		      <div class="nav-collapse collapse">
-						<ul class="nav">
-							<li><a href="#about"><span><i class="icon ss-heartbook"></i></span>About</a></li>
-							<li><a href="#details"><span><i class="icon ss-location"></i></span>Details</a></li>
-							<li><a href="#participate"><span><i class="icon ss-like"></i></span>Participate</a></li>
-							<li><a href="#partners"><span><i class="icon ss-users"></i></span>Partners</a></li>
-						</ul>
-						<ul class="nav pull-right">
-							<li><a href="http://www.facebook.com/CakeExpo" target="_blank"><span><i class="icon ss-social-circle ss-facebook fb"></i></span>Like us!</a></li>
-						</ul>
-		      </div>
-		 
-		    </div>
-		  </div>
-		</div>
-
-		<div class="row">
-			<h1>Love making cakes, eating cakes or just want to learn a thing or two about sugar art from the professionals?</h1>
-			<div class="span8 offset2">
-				<div class="intro">
-					<div class="intro_heading">
-					</div>
-					
-					<div class="row">
-						<div class="span4">
-							<div class="intro_section">
-								<p>We look to kick off a number of cake expos throughout Australia at the end of 2013 with participation from leading cake and cupcake stores, cake decorating equipment stores, cake decorating schools and more!
-								</p>
-								<p>Come along to learn how the professionals create their edible masterpieces whilst having a slice (or two) while you’re there.
-								</p>
-							</div>
-						</div>
-						<div class="span4">
-							<div class="intro_section">
-								<p>Like us on Facebook if you would like to be kept up to date with our latest moves and where you will be able to purchase tickets for the events or register your interest to participate as a partner or vendor below.
-								</p>
-								<p>Excited yet?  We are  :)</p>
-							</div>
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-	</div>
-</div> <!-- hero -->
-
-<section class="about" id="about">
-	<div class="container">
-		<img class="heading" src="design/images/about/things.png" alt="things" />
-		
-		<div class="row">
-			<div class="span4">
-				<div class="thing">
-					<img src="design/images/about/1.jpg" alt="1"/>
-					<h3>Expo Stalls</h3>
-					<p>From cake, cupcake and cake equipment businesses, suppliers, cake schools, cake clubs and pretty much everything else cake</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="thing">
-					<img src="design/images/about/2.jpg" alt="1"/>
-					<h3>Cake demonstrations</h3>
-					<p>Learn a thing or two from leading and local sugar artists who will be providing you with free demonstrations and tips from our main stage</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="thing">
-					<img src="design/images/about/6.jpg" alt="1"/>
-					<h3>Cake decorating tutorials</h3>
-					<p>Get your hands deliciously dirty with our live cake tutorials, you&rsquo;ll be doin&rsquo; it like the professionals in no time!</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="span4">
-				<div class="thing">
-					<img  src="design/images/about/4.jpg" alt="1"/>
-					<h3>Cake decorating competitions</h3>
-					<p>Check out the good, the fads and the lovely with our cake competitions. With multiple categories opened to the beginners and experts. Registrations open soon.
-					</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="thing">
-					<img src="design/images/about/5.jpg" alt="1"/>
-					<h3>Exclusive giveaways</h3>
-					<p>Our generous sponsors and stall holders have made sure you get the most out of your cakeventure through organising goodies and exclusive specials.
-					</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="thing">
-					<img src="design/images/about/3.jpg" alt="1"/>
-					<h3>Fun for the whole family</h3>
-					<p>Whether you’re a kid that’s big or small, we’ve got plenty to keep everyone entertained. Jumping castles, treasure hunts, cupcake creating  and lots more you’ll have plenty to explore.
-					</p>
-				</div>
-			</div>
-		</div>
-
-	</div>
-
+<section class="welcome">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<img class="welcome_tab" src="design/images/welcome_tab.png" alt="welcome_tab" width="325" height="139" />
+	<img src="design/images/welcome_text.png" alt="welcome_text" width="729" height="355" />
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
-<section class="details" id="details">
-	<div class="container">
-		<div class="row">
-			<div class="span6 offset3">
-				<div class="details_backer">
-					<img src="design/images/details/ribbon.png" alt="ribbon" />
-					<div class="info">
-						<i class="icon ss-deletecalendar"></i>
-						<h2>Where and When</h2>
-						<p>We’re currently finalising dates and venues and will update you on where a Cake Expo near you will be held and when. </p>
-						<p><a href="http://www.facebook.com/CakeExpo" target="_blank">Like us on Facebook for regular updates!</a></p>
-					</div>
-				</div>
-			</div>
+<img class="ribbon" src="design/images/lookforward_ribbon.png" alt="lookforward_ribbon" width="1107" height="115" />
+<section class="lookforward">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="row things first">
+		<div class="thing">
+			<img src="design/images/activities/1.jpg" alt="1" width="230" height="124" />
+			<h2>Expo Stalls</h2>
+			<p>From cake, cupcake and cake equipment businesses, suppliers, cake schools, cake clubs and pretty much everything else cake</p>
+		</div>
+		<div class="thing">
+			<img src="design/images/activities/2.jpg" alt="1" width="230" height="124" />
+			<h2>Cake Demonstrations</h2>
+			<p>Learn a thing or two from leading and local sugar artists who will be providing you with free CAKE DEMOS and tips ON THE main stage</p>
+		</div>
+		<div class="thing">
+			<img src="design/images/activities/3.jpg" alt="1" width="230" height="124" />
+			<h2>Decorating Tutorials</h2>
+			<p>Get your hands deliciously dirty with our live cake tutorials, you’ll be doin’ it like the professionals in no time!</p>
 		</div>
 	</div>
+	<div class="row things">
+		<div class="thing">
+			<img src="design/images/activities/4.jpg" alt="1" width="230" height="124" />
+			<h2>Decoration Competitions</h2>
+			<p>Check out the good, the fads and the lovely with our cake competitions. With multiple categories opened to the beginners and experts. Registrations open soon.</p>
+		</div>
+		<div class="thing">
+			<img src="design/images/activities/5.jpg" alt="1" width="230" height="124" />
+			<h2>Exclusive Giveaways</h2>
+			<p>Our generous sponsors and stall holders have made sure you get the most out of your cakeventure through organising goodies and exclusive specials.</p>
+		</div>
+		<div class="thing">
+			<img src="design/images/activities/6.jpg" alt="1" width="230" height="124" />
+			<h2>Fun for the whole family</h2>
+			<p>Whether you’re a kid that’s big or small, we’ve got plenty to keep everyone entertained. Jumping castles, treasure hunts, cupcake creating and lots</p>
+		</div>
+	</div>
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
-<section class="participate" id="participate">
-	<div class="container">
-		<div class="row">
-			<div class="span6 offset3">
-				<h2>Want to participate as a stall holder?</h2>
-				<p>Register your interest by completing the online form and we’ll send out all the information you need.</p>
-				<a target="_blank" href="https://docs.google.com/a/reclusedesigns.com.au/spreadsheet/viewform?formkey=dG1TenFKa1ZUX01WcE92Yzd3T3BuV2c6MQ"><img src="design/images/participate/button.png" alt="button" /></a>
-			</div>
-		</div>
-		<div class="contact_buttons">
-			<a href="mailto:lien@cakeplease.com.au"><i class="icon ss-mail"></i> Email Us</a>
-			<a href="http://www.facebook.com/CakeExpo" target="_blank"><i class="icon ss-like"></i> Like Us</a>
-		</div>
-	</div>
+<img class="ribbon" src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
+<section class="participate">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<img src="design/images/participate_text.png" alt="participate_text" width="500" height="195" />
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+	<a class="tab tab_register" target="_blank" href="https://docs.google.com/a/reclusedesigns.com.au/spreadsheet/viewform?formkey=dG1TenFKa1ZUX01WcE92Yzd3T3BuV2c6MQ"><img src="design/images/register_tab.png" alt="register_tab"width="144" height="86" /></a>
+	<a class="tab tab_email" href="mailto:cakeexpoaustralia@gmail.com"><img src="design/images/email_tab.png" alt="register_tab" width="144" height="86" /></a>
+	<a class="tab tab_like" target="_blank" href="http://www.facebook.com/CakeExpo"><img src="design/images/like_tab.png" alt="register_tab" width="144" height="86" /></a>
 </section>
 
+<img class="ribbon" src="design/images/details_ribbon.png" alt="details_ribbon" width="1203" height="108" />
+<section class="details">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<img src="design/images/details_text.png" alt="details_text" width="608" height="209" />
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+</section>
 
-<section class="partners" id="partners">
-	<div class="container">
-		<img class="heading" src="design/images/partners/heading.png" alt="heading"/>
-		<div class="partner_list">
-			<a target="_blank" href="http://cakeplease.com.au">
-				<img  src="design/images/partners/cakeplease.jpg" alt="cakeplease" />
-			</a>
-			<a target="_blank" href="http://yum-mammas.com">
-				<img src="design/images/partners/yummummas.jpg" alt="yummummas" />
-			</a>
-		</div>
-	</div>
+<section class="partners">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<img class="partners_tab" src="design/images/partners_tab.png" alt="partners_tab" width="121" height="108" />
+	<a class="partner" href="http://cakepleasecom.au"><img src="design/images/cakeplease.png" alt="cakeplease" width="124" height="103" /></a>
+<a class="partner" href="http://www.yum-mammas.com/"><img src="design/images/yumummas.png" alt="yumummas" width="108" height="84" /></a>
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
 <?php include 'footer.php'; ?>
