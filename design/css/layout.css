@@ -12,7 +12,7 @@ i{padding-top:0px; position: relative; top:2px}
 ::selection {background: #3d74ad; color:#3d74ad;  /* Safari */}
 ::-moz-selection {background: #3d74ad; color:#fff; /* Firefox */}
 
-body{background:#343129; text-align: center;}
+body{background:url(../images/pattern.jpg) #343129; text-align: center;}
 section{display: block; width:940px; margin:0 auto; position: relative; background:url(../images/section/pattern.png) repeat-y;  margin-bottom:40px; padding:}
 
 section img.top{margin-top:-25px; position: relative; top:0;}
