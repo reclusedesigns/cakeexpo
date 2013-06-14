@@ -12,7 +12,7 @@ i{padding-top:0px; position: relative; top:2px}
 ::selection {background: #3d74ad; color:#3d74ad;  /* Safari */}
 ::-moz-selection {background: #3d74ad; color:#fff; /* Firefox */}
 
-body{background:url(../images/pattern.jpg) #343129; text-align: center;}
+body{background:url(../images/pattern.jpg) #343129; text-align: center; position: relative;}
 section{display: block; width:940px; margin:0 auto; position: relative; background:url(../images/section/pattern.png) repeat-y;  margin-bottom:40px; padding:}
 
 section img.top{margin-top:-25px; position: relative; top:0;}
@@ -22,12 +22,22 @@ section img.bottom{position: relative; bottom:0; margin-bottom:-25px;}
 
 
 /* typography */
-h1, h2, h3, h4, p {font-family: "league-gothic",sans-serif; text-transform: uppercase;}
+h1, h2, h3, h4, p,
+header .menu ul li a {font-family: "league-gothic",sans-serif; text-transform: uppercase;}
 h2{font-size:22px; color:#cc5e5c}
 p{font-size:16px; color:#545048; text-align: justify;}
 
+
+/* navbar header */
+header{position: fixed; width:100%; z-index: 10000; top:80px; text-align: left;}
+header .menu{width:940px; height:60px; display: block; background:rgba(244,220,156,0.6); margin: 0 auto;position: relative; border-radius: 3px; border:1px solid #dbb655;}
+header .menu .logo{position: absolute;top:-40px; left:-20px;}
+header .menu ul li{padding-top:20px;}
+header .menu ul li a{padding:10px 20px; font-size:22px; color:#29261e}
+header .menu ul li a:hover{opacity: 0.8; text-decoration: none;}
+
 /* welcome */
-.welcome{margin-top:150px;}
+.welcome{margin-top:240px;}
 .welcome img.welcome_tab{margin-top:-100px; z-index:5000; position: relative;}
 
 /* lookfoward  */

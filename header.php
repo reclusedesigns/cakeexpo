@@ -39,3 +39,18 @@
 </head>
 
 <body>
+
+
+<header>
+	<div class="container">
+		<div class="menu">
+			<a href="#"><img class="logo" src="design/images/header/logo.png" alt="logo" width="144" height="146"></a>
+			<ul class="inline pull-right">
+				<li><a href="#activities">Activities</a></li>
+				<li><a href="#participate">Participate</a></li>
+				<li><a href="#details">Details</a></li>
+				<li><a href="#partners">Partners</a></li>
+			</ul>
+		</div>
+	</div>
+</header>
