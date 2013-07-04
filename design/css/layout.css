@@ -18,14 +18,14 @@ section{display: block; width:940px; margin:0 auto; position: relative; backgrou
 section img.top{margin-top:-25px; position: relative; top:0;}
 section img.bottom{position: relative; bottom:0; margin-bottom:-25px;}
 
-.ribbon{margin-bottom:-550px; position: relative; z-index: 3000;}
+.ribbon{z-index: 3000; text-align: center; overflow: visible; width: 1110px; display: block; margin-left:-84px; padding-top:200px;}
 
 
 /* typography */
 h1, h2, h3, h4, p,
 header .menu ul li a {font-family: "league-gothic",sans-serif; text-transform: uppercase;}
-h2{font-size:22px; color:#cc5e5c}
-p{font-size:16px; color:#545048; text-align: justify;}
+h2{font-size:22px; color:#cc5e5c; font-weight: normal;}
+p{font-size:20px; color:#545048; text-align: justify; line-height: 22px;}
 
 
 /* navbar header */
@@ -41,7 +41,7 @@ header .menu ul li a:hover{opacity: 0.8; text-decoration: none;}
 .welcome img.welcome_tab{margin-top:-100px; z-index:5000; position: relative;}
 
 /* lookfoward  */
-.lookforward .first{padding-top:300px;}
+.lookforward .first{padding-top:60px;}
 .lookforward .things{margin-left:60px;}
 .lookforward .thing{display: block; float: left; width:230px; margin:20px;}
 

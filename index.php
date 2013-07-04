@@ -7,9 +7,12 @@
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
-<img class="ribbon" src="design/images/lookforward_ribbon.png" alt="lookforward_ribbon" width="1107" height="115" />
+
 <section id="activities" class="lookforward">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/lookforward_ribbon.png" alt="lookforward_ribbon" width="1107" height="115" />
+	</div>
 	<div class="row things first">
 		<div class="thing">
 			<img src="design/images/activities/1.jpg" alt="1" width="230" height="124" />
@@ -47,9 +50,12 @@
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
-<img class="ribbon" src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
+
 <section id="participate" class="participate">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
+	</div>
 	<img src="design/images/participate_text.png" alt="participate_text" width="500" height="195" />
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 	<a class="tab tab_register" target="_blank" href="https://docs.google.com/a/reclusedesigns.com.au/spreadsheet/viewform?formkey=dG1TenFKa1ZUX01WcE92Yzd3T3BuV2c6MQ"><img src="design/images/register_tab.png" alt="register_tab"width="144" height="86" /></a>
@@ -57,9 +63,12 @@
 	<a class="tab tab_like" target="_blank" href="http://www.facebook.com/CakeExpo"><img src="design/images/like_tab.png" alt="register_tab" width="144" height="86" /></a>
 </section>
 
-<img class="ribbon" src="design/images/details_ribbon.png" alt="details_ribbon" width="1203" height="108" />
+
 <section id="details" class="details">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/details_ribbon.png" alt="details_ribbon" width="1203" height="108" />
+	</div>
 	<img src="design/images/details_text.png" alt="details_text" width="608" height="209" />
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
