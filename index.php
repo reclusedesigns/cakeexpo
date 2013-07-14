@@ -4,8 +4,19 @@
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
 	<img class="welcome_tab" src="design/images/welcome_tab.png" alt="welcome_tab" width="325" height="139" />
 	<img src="design/images/welcome_text.png" alt="welcome_text" width="729" height="355" />
+	<div class="welcome_text">
+		<p>Whether you love making cakes, eating cake or just staring at them from afar, we’d love for you to join us at the Melbourne Cake Expo on the 23rd and 24th of November 2013.
+	</p>
+		<p>Come along and see how the professionals create their edible masterpieces whist having a slice (or two) while you’re there.</p>
+		<p>From cakes to cupcakes, cake-pops to candy bars, cake decorating equipment to cake schools, you’ll find it all here under the one roof.
+		</p>
+		<p>There will be a huge number of activities for all ages which will ensure we don’t put that sugar rush to waste!</p>
+		<p>Excited yet? We are!</p>
+		<p><span><a href="mailto:hello@cakeexpo.com.au">- Cake Expo Team</a></span></p>
+	</div>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
+
 
 
 <section id="activities" class="lookforward">
@@ -51,18 +62,6 @@
 </section>
 
 
-<section id="participate" class="participate">
-	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
-	<div class="ribbon">
-		<img src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
-	</div>
-	<img src="design/images/participate_text.png" alt="participate_text" width="500" height="195" />
-	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
-	<a class="tab tab_register" target="_blank" href="https://docs.google.com/a/reclusedesigns.com.au/spreadsheet/viewform?formkey=dG1TenFKa1ZUX01WcE92Yzd3T3BuV2c6MQ"><img src="design/images/register_tab.png" alt="register_tab"width="144" height="86" /></a>
-	<a class="tab tab_email" href="mailto:cakeexpoaustralia@gmail.com"><img src="design/images/email_tab.png" alt="register_tab" width="144" height="86" /></a>
-	<a class="tab tab_like" target="_blank" href="http://www.facebook.com/CakeExpo"><img src="design/images/like_tab.png" alt="register_tab" width="144" height="86" /></a>
-</section>
-
 
 <section id="details" class="details">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
@@ -72,6 +71,19 @@
 	<img src="design/images/details_text.png" alt="details_text" width="608" height="209" />
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
+
+<section id="participate" class="participate">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
+	</div>
+	<img src="design/images/pricing.png" alt="participate_text"/>
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+	<a class="tab tab_register" target="_blank" href="https://docs.google.com/forms/d/1Hw8UusvZ1teHItww8NqEs93sZPEyxHpTpOziazm_5M0/viewform"><img src="design/images/register_now.png" alt="register_tab"width="144" height="86" /></a>
+	<a class="tab tab_email" href="design/images/package_descriptions.pdf"><img src="design/images/package_tab.png" alt="register_tab" width="144" height="86" /></a>
+	<a class="tab tab_like" target="_blank" href="design/images/termsandconditions.pdf"><img src="design/images/terms_tab.png" alt="register_tab" width="144" height="86" /></a>
+</section>
+
 
 <section class="partners" id="partners">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />

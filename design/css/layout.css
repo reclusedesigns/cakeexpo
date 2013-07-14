@@ -22,10 +22,11 @@ section img.bottom{position: relative; bottom:0; margin-bottom:-25px;}
 
 
 /* typography */
-h1, h2, h3, h4, p,
+h1, h2, h3, h4,
 header .menu ul li a {font-family: "league-gothic",sans-serif; text-transform: uppercase;}
-h2{font-size:22px; color:#cc5e5c; font-weight: normal;}
-p{font-size:20px; color:#545048; text-align: justify; line-height: 22px;}
+p{font-family: "bree-serif",sans-serif;}
+h2{font-size:30px; color:#cc5e5c; font-weight: normal;}
+p{font-size:13px; color:#545048; text-align: left; line-height: 18px;}
 
 
 /* navbar header */
@@ -39,7 +40,9 @@ header .menu ul li a:hover{opacity: 0.8; text-decoration: none;}
 /* welcome */
 .welcome{margin-top:240px;}
 .welcome img.welcome_tab{margin-top:-100px; z-index:5000; position: relative;}
-
+.welcome .welcome_text{width:600px; display: block; margin:0 auto; padding: 40px 0;}
+.welcome .welcome_text p{font-size:18px; text-align: center; color:#6c7061; line-height: 23px;}
+.welcome .welcome_text p span a{font-weight: bold; color:#cc5c5b;}
 /* lookfoward  */
 .lookforward .first{padding-top:60px;}
 .lookforward .things{margin-left:60px;}

@@ -3,8 +3,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Cake Expo</title>
-	<meta name="author" content="Draftable">
-	<meta name="viewport" content="width-device-width, initial-scale=1.0">
+	<meta name="author" content="Cake Expo">
+
 	
 	<!-- favicon -->
 	<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
@@ -47,9 +47,11 @@
 			<a href="#"><img class="logo" src="design/images/header/logo.png" alt="logo" width="144" height="146"></a>
 			<ul class="inline pull-right">
 				<li><a href="#activities">Activities</a></li>
-				<li><a href="#participate">Participate</a></li>
 				<li><a href="#details">Details</a></li>
+				<li><a href="#participate">Participate</a></li>
 				<li><a href="#partners">Partners</a></li>
+				<li><a href="http://www.facebook.com/CakeExpo" target="_blank">Like us on Facebook</a></li>
+				<li><a href="mailto:hello@cakeexpo.com.au">Email Us</a></li>
 			</ul>
 		</div>
 	</div>
