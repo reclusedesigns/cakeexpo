@@ -33,7 +33,7 @@
 		<div class="thing">
 			<img src="design/images/activities/2.jpg" alt="1" width="230" height="124" />
 			<h2>Cake Demonstrations</h2>
-			<p>Learn a thing or two from leading and local sugar artists who will be providing you with free CAKE DEMOS and tips ON THE main stage</p>
+			<p>Learn a thing or two from leading and local sugar artists who will be providing you with free cake demos and tips on the main stage</p>
 		</div>
 		<div class="thing">
 			<img src="design/images/activities/3.jpg" alt="1" width="230" height="124" />
@@ -68,7 +68,7 @@
 	<div class="ribbon">
 		<img src="design/images/details_ribbon.png" alt="details_ribbon" width="1203" height="108" />
 	</div>
-	<img src="design/images/details_text.png" alt="details_text" width="608" height="209" />
+	<img class="details_text" src="design/images/details_text.png" alt="details_text" width="608" height="209" />
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 

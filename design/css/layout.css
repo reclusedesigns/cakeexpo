@@ -48,6 +48,9 @@ header .menu ul li a:hover{opacity: 0.8; text-decoration: none;}
 .lookforward .things{margin-left:60px;}
 .lookforward .thing{display: block; float: left; width:230px; margin:20px;}
 
+/* details */
+.details .details_text{padding-bottom:40px;}
+
 /* participate */
 .participate .tab{position: absolute; left:-10px; top:50%;}
 .participate .tab_register{top:45%;z-index: 6000;}
