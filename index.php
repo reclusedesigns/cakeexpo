@@ -1,4 +1,5 @@
-<?php include 'header.php'; ?>
+
+<!--
 
 <section class="welcome">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
@@ -92,5 +93,6 @@
 <a class="partner" href="http://www.yum-mammas.com/"><img src="design/images/yumummas.png" alt="yumummas" width="108" height="84" /></a>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
+-->
 
-<?php include 'footer.php'; ?>
+<!-- <?php include 'footer.php'; ?> -->
