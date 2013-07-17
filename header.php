@@ -48,7 +48,7 @@
 			<ul class="inline pull-right">
 				<li><a href="#activities">Activities</a></li>
 				<li><a href="#details">Details</a></li>
-				<li><a href="#participate">Participate</a></li>
+				<li><a href="#participate">Exhibitors</a></li>
 				<li><a href="#partners">Partners</a></li>
 				<li><a href="http://www.facebook.com/CakeExpo" target="_blank">Like us on Facebook</a></li>
 				<li><a href="mailto:hello@cakeexpo.com.au">Email Us</a></li>
