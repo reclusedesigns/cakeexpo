@@ -56,7 +56,7 @@
 		<div class="thing">
 			<img src="design/images/activities/6.jpg" alt="1" width="230" height="124" />
 			<h2>Fun for the whole family</h2>
-			<p>Whether you’re a kid that’s big or small, we’ve got plenty to keep everyone entertained. Jumping castles, treasure hunts, cupcake creating and lots</p>
+			<p>Whether you’re a kid that’s big or small, we’ve got plenty to keep everyone entertained. Jumping castles, face painting, treasure hunts, cupcake creating and lots more!</p>
 		</div>
 	</div>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
