@@ -6,6 +6,7 @@
 	<img class="welcome_tab" src="design/images/welcome_tab.png" alt="welcome_tab" width="325" height="139" />
 	<img src="design/images/welcome_text.png" alt="welcome_text" width="729" height="355" />
 	<div class="welcome_text">
+		<p class="buy_ticket"><a href="http://www.eventbrite.com.au/s/dHin">Buy tickets</a></p>
 		<p>Whether you love making cakes, eating cake or just staring at them from afar, we’d love for you to join us at the Melbourne Cake Expo on the 23rd and 24th of November 2013.
 	</p>
 		<p>Come along and see how the professionals create their edible masterpieces whist having a slice (or two) while you’re there.</p>
