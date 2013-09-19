@@ -64,6 +64,32 @@
 </section>
 
 
+<section class="welcome competition">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/competition.png" alt="lookforward_ribbon" width="1107" height="115" />
+	</div>
+	<div class="welcome_text">
+		<h2>Why not have a go and see how you measure up in one of our cake decorating competitions.</h2>
+		<p>Winners will be sharing in over $1500 in cash and prizes and entry is FREE!</p>
+		<p>There are five categories to choose from, or enter all five!</p>
+		<ul class="unstyled">
+			<li><strong>Categories include:</strong>
+			<li><strong>Two tier</strong> – a cake with two tiers</li>
+			<li><strong>Three tier plus</strong> - a cake with three or more tiers</li>
+			<li><strong>Cupcake tower</strong> – a cupcake tower of three tiers or more</li>
+			<li><strong>Novelty</strong> – any shape, any size, show us how creative you can be</li>
+			<li><strong>Junior</strong> – Move over grown ups! This category is for talent under 16 years of age (any type of cake)</li>
+		</ul>
+
+		<p>To enter, send a photo of your cake, old or new to hello@cakeexpo.com.au Our judges will select the top five finalists who will be required to re-create their cakes to be displayed at the Melbourne Cake Expo where everyone who comes along will be able to vote for our winners!</p>
+		<p><strong><a href="design/images/competition.pdf">Please check out the competition’s terms and conditions here</a></strong></p>
+		<p>Entries close 11:59pm on 25 October 2013</p>
+	</div>
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+</section>
+
+
 
 <section id="details" class="details">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />

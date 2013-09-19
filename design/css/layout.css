@@ -24,7 +24,7 @@ section img.bottom{position: relative; bottom:0; margin-bottom:-25px;}
 /* typography */
 h1, h2, h3, h4,
 header .menu ul li a {font-family: "league-gothic",sans-serif; text-transform: uppercase;}
-p{font-family: "bree-serif",sans-serif;}
+p, ul li{font-family: "bree-serif",sans-serif;}
 h2{font-size:30px; color:#cc5e5c; font-weight: normal;}
 p{font-size:13px; color:#545048; text-align: left; line-height: 18px;}
 
@@ -34,7 +34,7 @@ header{position: fixed; width:100%; z-index: 10000; top:80px; text-align: left;}
 header .menu{width:940px; height:60px; display: block; background:rgba(244,220,156,0.6); margin: 0 auto;position: relative; border-radius: 3px; border:1px solid #dbb655;}
 header .menu .logo{position: absolute;top:-40px; left:-20px;}
 header .menu ul li{padding-top:20px;}
-header .menu ul li a{padding:10px 20px; font-size:22px; color:#29261e}
+header .menu ul li a{padding:10px 20px; font-size:19px; color:#29261e}
 header .menu ul li a:hover{opacity: 0.8; text-decoration: none;}
 header .menu ul li a.buy{background:#fff; padding:10px; border-radius: 4px;}
 
@@ -42,7 +42,8 @@ header .menu ul li a.buy{background:#fff; padding:10px; border-radius: 4px;}
 .welcome{margin-top:240px;}
 .welcome img.welcome_tab{margin-top:-100px; z-index:5000; position: relative;}
 .welcome .welcome_text{width:600px; display: block; margin:0 auto; padding: 40px 0;}
-.welcome .welcome_text p{font-size:18px; text-align: center; color:#6c7061; line-height: 23px;}
+.welcome .welcome_text p,
+.welcome .welcome_text ul li{font-size:18px; text-align: center; color:#6c7061; line-height: 23px;}
 .welcome .welcome_text p span a{font-weight: bold; color:#cc5c5b;}
 .welcome .welcome_text p.buy_ticket{display: block; margin-bottom:40px;}
 .welcome .welcome_text p.buy_ticket a{background:#0088cc; padding:20px; font-size:24px; border-radius: 10px; color:#fff;}
@@ -54,6 +55,10 @@ header .menu ul li a.buy{background:#fff; padding:10px; border-radius: 4px;}
 
 /* details */
 .details .details_text{padding-bottom:40px;}
+
+
+/* competition */
+.competition{margin-top:0;}
 
 /* participate */
 .participate .tab{position: absolute; left:-10px; top:50%;}
