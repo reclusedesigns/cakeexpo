@@ -59,6 +59,7 @@ header .menu ul li a.buy{background:#fff; padding:10px; border-radius: 4px;}
 
 /* competition */
 .competition{margin-top:0;}
+.competition ul .category strong{color:#e88582;}
 
 /* participate */
 .participate .tab{position: absolute; left:-10px; top:50%;}
