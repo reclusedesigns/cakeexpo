@@ -34,7 +34,7 @@
 		</div>
 		<div class="thing">
 			<img src="design/images/activities/2.jpg" alt="1" width="230" height="124" />
-			<h2>Cake Demonstrations</h2>
+			<h2><a href="#demonstrations">Cake Demonstrations</a></h2>
 			<p>Learn a thing or two from leading and local sugar artists who will be providing you with free cake demos and tips on the main stage</p>
 		</div>
 		<div class="thing">
@@ -46,7 +46,7 @@
 	<div class="row things">
 		<div class="thing">
 			<img src="design/images/activities/4.jpg" alt="1" width="230" height="124" />
-			<h2>Decorating Competitions</h2>
+			<h2><a href="#competition">Decorating Competitions</a></h2>
 			<p>Check out the good, the fads and the lovely with our cake competitions. With multiple categories opened to the beginners and experts. <a href="#competition">How to enter</a>.</p>
 		</div>
 		<div class="thing">
@@ -90,6 +90,64 @@
 </section>
 
 
+<section class="demonstrations" id="demonstrations">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/demonstrations_ribbon.png" alt="details_ribbon" width="1203" height="108" />
+	</div>
+		<img class="demonstration" src="design/images/demonstrations/1.jpg" alt="1" />
+		<img class="demonstration" src="design/images/demonstrations/2.jpg" alt="1" />
+		<img class="demonstration" src="design/images/demonstrations/3.jpg" alt="1" />
+		<img class="demonstration" src="design/images/demonstrations/4.jpg" alt="1" />
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+</section>
+
+<section class="stallholders" id="stallholders">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/stallholders_ribbon.png" alt="details_ribbon" width="1203" height="108" />
+	</div>
+		<img class="stallholder" src="design/images/stallholders/1.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/2.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/3.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/4.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/5.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/6.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/7.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/8.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/9.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/10.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/11.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/12.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/13.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/14.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/15.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/16.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/17.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/18.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/19.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/20.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/21.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/22.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/23.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/24.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/25.jpg" alt="1" />
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+</section>
+
+
+<section class="partners" id="partners">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<img class="partners_tab" src="design/images/sponsors_tab.png" alt="partners_tab" width="121" height="108" />
+		<img class="partner" src="design/images/sponsors/1.jpg" alt="1" />
+		<img class="partner" src="design/images/sponsors/2.jpg" alt="1" />
+		<img class="partner" src="design/images/sponsors/3.jpg" alt="1" />
+		<img class="partner" src="design/images/sponsors/4.jpg" alt="1" />
+		<img class="partner" src="design/images/sponsors/5.jpg" alt="1" />
+		<img class="partner" src="design/images/sponsors/6.jpg" alt="1" />
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+</section>
+
 
 <section id="details" class="details">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
@@ -110,15 +168,6 @@
 	<a class="tab tab_register" target="_blank" href="https://docs.google.com/forms/d/1WIcSviQ6q-zvbz4nKrEwg5c_iaD8FcucmQ6BLWNPr1g/viewform"><img src="design/images/register_now.png" alt="register_tab"width="144" height="86" /></a>
 	<a class="tab tab_email" href="design/images/package_descriptions.pdf"><img src="design/images/package_tab.png" alt="register_tab" width="144" height="86" /></a>
 	<a class="tab tab_like" target="_blank" href="design/images/termsandconditions.pdf"><img src="design/images/terms_tab.png" alt="register_tab" width="144" height="86" /></a>
-</section>
-
-
-<section class="partners" id="partners">
-	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
-	<img class="partners_tab" src="design/images/partners_tab.png" alt="partners_tab" width="121" height="108" />
-	<a class="partner" href="http://cakepleasecom.au"><img src="design/images/cakeplease.png" alt="cakeplease" width="124" height="103" /></a>
-<a class="partner" href="http://www.yum-mammas.com/"><img src="design/images/yumummas.png" alt="yumummas" width="108" height="84" /></a>
-	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
 

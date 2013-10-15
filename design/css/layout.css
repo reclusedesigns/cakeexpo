@@ -19,7 +19,7 @@ section img.top{margin-top:-25px; position: relative; top:0;}
 section img.bottom{position: relative; bottom:0; margin-bottom:-25px;}
 
 .ribbon{z-index: 3000; text-align: center; overflow: visible; width: 1110px; display: block; margin-left:-84px; padding-top:200px;}
-
+.clear{height: 60px;}
 
 /* typography */
 h1, h2, h3, h4,
@@ -36,7 +36,7 @@ header .menu .logo{position: absolute;top:-40px; left:-20px;}
 header .menu ul li{padding-top:20px;}
 header .menu ul li a{padding:10px 20px; font-size:19px; color:#29261e}
 header .menu ul li a:hover{opacity: 0.8; text-decoration: none;}
-header .menu ul li a.buy{background:#fff; padding:10px; border-radius: 4px;}
+header .menu ul li a.buy{background:#e88582; color:#fff; padding:10px; border-radius: 4px;}
 
 /* welcome */
 .welcome{margin-top:240px;}
@@ -67,9 +67,16 @@ header .menu ul li a.buy{background:#fff; padding:10px; border-radius: 4px;}
 .participate .tab_email{top:55%; z-index: 5999;}
 .participate .tab_like{top:65%;}
 
+/* stallholders */
+.stallholders{position: relative;}
+.stallholders .stallholder{margin-bottom:5px; border-radius: 5px;}
+.stallholders .stallholder_tab{position: absolute; left:-10px; top:20px}
+
+.demonstrations .demonstration{margin:10px; border-radius: 5px;}
+
 /* partiners */
 .partners{}
 .partners .partners_tab{position: absolute; left: -10px; top:20px;}
-.partners .partner{padding:50px 30px;}
+.partners .partner{padding:10px}
 
 footer p{color:#f7eecf; text-align: center;}
