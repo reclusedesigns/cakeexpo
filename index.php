@@ -15,6 +15,7 @@
 		<p>There will be a huge number of activities for all ages which will ensure we don’t put that sugar rush to waste!</p>
 		<p>Excited yet? We are!</p>
 		<p><span><a href="mailto:hello@cakeexpo.com.au">- Cake Expo Team</a></span></p>
+		<a href="http://www.nbcf.org.au/" target="_blank"><img class="breast" src="design/images/breast_cancer.jpg" alt="breast_cancer" /></a>
 	</div>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
@@ -29,7 +30,7 @@
 	<div class="row things first">
 		<div class="thing">
 			<img src="design/images/activities/1.jpg" alt="1" width="230" height="124" />
-			<h2>Expo Stalls</h2>
+			<h2><a href="#stalls">Expo Stalls</a></h2>
 			<p>From cake, cupcake and cake equipment businesses, suppliers, cake schools, cake clubs and pretty much everything else cake</p>
 		</div>
 		<div class="thing">
@@ -99,10 +100,18 @@
 		<img class="demonstration" src="design/images/demonstrations/2.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/3.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/4.jpg" alt="1" />
+		<div class="day">
+			<p>Saturday</p>
+		</div>
+		<div class="day">
+			<p>Sunday</p>
+		</div>
+		<img class="schedule" src="design/images/demonstrations/schedule1.jpg">
+		<img class="schedule" src="design/images/demonstrations/schedule2.jpg">
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
-<section class="stallholders" id="stallholders">
+<section class="stallholders" id="stalls">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
 	<div class="ribbon">
 		<img src="design/images/stallholders_ribbon.png" alt="details_ribbon" width="1203" height="108" />
@@ -145,6 +154,7 @@
 		<img class="partner" src="design/images/sponsors/4.jpg" alt="1" />
 		<img class="partner" src="design/images/sponsors/5.jpg" alt="1" />
 		<img class="partner" src="design/images/sponsors/6.jpg" alt="1" />
+		<img class="partner" src="design/images/sponsors/7.jpg" alt="1" />
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
