@@ -100,6 +100,7 @@
 		<img class="demonstration" src="design/images/demonstrations/2.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/3.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/4.jpg" alt="1" />
+		<img class="demonstration demonstration_single" src="design/images/demonstrations/5.jpg" alt="1" />
 		<div class="day">
 			<p>Saturday</p>
 		</div>
