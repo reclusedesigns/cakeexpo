@@ -58,7 +58,7 @@
 		<div class="thing">
 			<img src="design/images/activities/6.jpg" alt="1" width="230" height="124" />
 			<h2>Fun for the whole family</h2>
-			<p>Whether you’re a kid that’s big or small, we’ve got plenty to keep everyone entertained. Jumping castles, face painting, treasure hunts, cupcake creating and lots more!</p>
+			<p>Whether you’re a kid that’s big or small, we’ve got plenty to keep everyone entertained. Jumping castles, face painting, photo booth, cupcake creating and lots more!</p>
 		</div>
 	</div>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
@@ -85,7 +85,7 @@
 
 		<p>To enter, send a photo of your cake, old or new to <a href="mailto:hello@cakeexpo.com.au">hello@cakeexpo.com.au</a> Our judges will select the top five finalists who will be required to re-create their cakes to be displayed at the Melbourne Cake Expo where everyone who comes along will be able to vote for our winners!</p>
 		<p><strong><a href="design/images/competition.pdf">Please check out the competition’s terms and conditions here</a></strong></p>
-		<p>Entries close 11:59pm on 25 October 2013</p>
+		<h2>Entries have now closed</h2>
 	</div>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
@@ -100,7 +100,8 @@
 		<img class="demonstration" src="design/images/demonstrations/2.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/3.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/4.jpg" alt="1" />
-		<img class="demonstration demonstration_single" src="design/images/demonstrations/5.jpg" alt="1" />
+		<img class="demonstration" src="design/images/demonstrations/5.jpg" alt="1" />
+		<img class="demonstration" src="design/images/demonstrations/6.jpg" alt="1" />
 		<div class="day">
 			<p>Saturday</p>
 		</div>

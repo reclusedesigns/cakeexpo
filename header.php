@@ -47,7 +47,7 @@
 			<a href="#"><img class="logo" src="design/images/header/logo.png" alt="logo" width="144" height="146"></a>
 			<ul class="inline pull-right">
 				<li><a href="#activities">Activities</a></li>
-				<li><a href="#competition">Decorating Competition</a></li>
+				<li><a href="#competition">Decorating Classes</a></li>
 				<li><a href="#details">Details</a></li>
 				<li><a href="#participate">Exhibitors</a></li>
 				<li><a href="http://www.facebook.com/CakeExpo" target="_blank">Like us</a></li>
