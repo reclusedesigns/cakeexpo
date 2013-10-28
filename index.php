@@ -175,7 +175,7 @@
 	<div class="ribbon">
 		<img src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
 	</div>
-	<img src="design/images/pricing.png" alt="participate_text"/>
+	<img src="design/images/tutorials.jpg" alt="participate_text"/>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 	<a class="tab tab_register" target="_blank" href="https://docs.google.com/forms/d/1WIcSviQ6q-zvbz4nKrEwg5c_iaD8FcucmQ6BLWNPr1g/viewform"><img src="design/images/register_now.png" alt="register_tab"width="144" height="86" /></a>
 	<a class="tab tab_email" href="design/images/package_descriptions.pdf"><img src="design/images/package_tab.png" alt="register_tab" width="144" height="86" /></a>
