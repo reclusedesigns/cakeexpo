@@ -40,7 +40,7 @@
 		</div>
 		<div class="thing">
 			<img src="design/images/activities/3.jpg" alt="1" width="230" height="124" />
-			<h2>Decorating Tutorials</h2>
+			<h2><a href="#decorating">Decorating Classes</a></h2>
 			<p>Get your hands deliciously dirty with our live cake tutorials, you’ll be doin’ it like the professionals in no time!</p>
 		</div>
 	</div>
@@ -62,6 +62,22 @@
 		</div>
 	</div>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+</section>
+
+
+<section id="decorating" class="decorating">
+	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
+	<div class="ribbon">
+		<img src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
+	</div>
+	<img src="design/images/tutorials.jpg" alt="participate_text"/>
+	<p class="buy_ticket"><a href="http://www.eventbrite.com.au/s/dHin">Buy tickets</a></p>
+	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
+	<!--
+<a class="tab tab_register" target="_blank" href="https://docs.google.com/forms/d/1WIcSviQ6q-zvbz4nKrEwg5c_iaD8FcucmQ6BLWNPr1g/viewform"><img src="design/images/register_now.png" alt="register_tab"width="144" height="86" /></a>
+	<a class="tab tab_email" href="design/images/package_descriptions.pdf"><img src="design/images/package_tab.png" alt="register_tab" width="144" height="86" /></a>
+	<a class="tab tab_like" target="_blank" href="design/images/termsandconditions.pdf"><img src="design/images/terms_tab.png" alt="register_tab" width="144" height="86" /></a>
+-->
 </section>
 
 
@@ -102,6 +118,7 @@
 		<img class="demonstration" src="design/images/demonstrations/4.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/5.jpg" alt="1" />
 		<img class="demonstration" src="design/images/demonstrations/6.jpg" alt="1" />
+		<img class="demonstration demonstration_single" src="design/images/demonstrations/7.jpg" alt="1" />
 		<div class="day">
 			<p>Saturday</p>
 		</div>
@@ -168,18 +185,6 @@
 	</div>
 	<img class="details_text" src="design/images/details_text.png" alt="details_text" width="608" height="209" />
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
-</section>
-
-<section id="participate" class="participate">
-	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
-	<div class="ribbon">
-		<img src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
-	</div>
-	<img src="design/images/tutorials.jpg" alt="participate_text"/>
-	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
-	<a class="tab tab_register" target="_blank" href="https://docs.google.com/forms/d/1WIcSviQ6q-zvbz4nKrEwg5c_iaD8FcucmQ6BLWNPr1g/viewform"><img src="design/images/register_now.png" alt="register_tab"width="144" height="86" /></a>
-	<a class="tab tab_email" href="design/images/package_descriptions.pdf"><img src="design/images/package_tab.png" alt="register_tab" width="144" height="86" /></a>
-	<a class="tab tab_like" target="_blank" href="design/images/termsandconditions.pdf"><img src="design/images/terms_tab.png" alt="register_tab" width="144" height="86" /></a>
 </section>
 
 

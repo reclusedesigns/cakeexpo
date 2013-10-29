@@ -26,7 +26,9 @@ header .menu ul li a, .demonstrations .day p {font-family: "league-gothic",sans-
 p, ul li{font-family: "bree-serif",sans-serif;}
 h2{font-size:30px; color:#cc5e5c; font-weight: normal;}
 p{font-size:13px; color:#545048; text-align: left; line-height: 18px;}
-
+p.buy_ticket{display: block; margin-bottom:40px; text-align: center;}
+p.buy_ticket a{background:#0088cc; padding:20px; font-size:24px; border-radius: 10px; color:#fff; }
+p.buy_ticket a:hover{text-decoration: none; opacity: 0.8;}
 
 /* navbar header */
 header{position: fixed; width:100%; z-index: 10000; top:80px; text-align: left;}
@@ -44,9 +46,7 @@ header .menu ul li a.buy{background:#e88582; color:#fff; padding:10px; border-ra
 .welcome .welcome_text p,
 .welcome .welcome_text ul li{font-size:18px; text-align: center; color:#6c7061; line-height: 23px;}
 .welcome .welcome_text p span a{font-weight: bold; color:#cc5c5b;}
-.welcome .welcome_text p.buy_ticket{display: block; margin-bottom:40px;}
-.welcome .welcome_text p.buy_ticket a{background:#0088cc; padding:20px; font-size:24px; border-radius: 10px; color:#fff;}
-.welcome .welcome_text p.buy_ticket a:hover{text-decoration: none; opacity: 0.8;}
+
 .welcome .breast{margin-top:20px; box-shadow: 0 3px 3px rgba(0,0,0,0.4); border-radius: 5px;}
 
 /* lookfoward  */
@@ -67,6 +67,9 @@ header .menu ul li a.buy{background:#e88582; color:#fff; padding:10px; border-ra
 .participate .tab_register{top:45%;z-index: 6000;}
 .participate .tab_email{top:55%; z-index: 5999;}
 .participate .tab_like{top:65%;}
+
+/* decorating */
+.decorating p.buy_ticket{padding-top:40px; }
 
 /* stallholders */
 .stallholders{position: relative;}
