@@ -68,7 +68,7 @@
 <section id="decorating" class="decorating">
 	<img class="top" src="design/images/section/top.png" alt="top" width="940" height="25" />
 	<div class="ribbon">
-		<img src="design/images/participate_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
+		<img src="design/images/decorating_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
 	</div>
 	<img src="design/images/tutorials.jpg" alt="participate_text"/>
 	<p class="buy_ticket"><a href="http://www.eventbrite.com.au/s/dHin">Buy tickets</a></p>
