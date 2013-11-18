@@ -70,6 +70,7 @@
 	<div class="ribbon">
 		<img src="design/images/decorating_ribbon.png" alt="participate_ribbon" width="1104" height="112" />
 	</div>
+	<img src="design/images/queen.png" alt="sponsored_by_queen" />
 	<img src="design/images/tutorials_sold.jpg" alt="participate_text"/>
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 	<!--
