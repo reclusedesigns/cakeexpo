@@ -160,6 +160,7 @@
 		<img class="stallholder" src="design/images/stallholders/23.jpg" alt="1" />
 		<img class="stallholder" src="design/images/stallholders/24.jpg" alt="1" />
 		<img class="stallholder" src="design/images/stallholders/25.jpg" alt="1" />
+		<img class="stallholder" src="design/images/stallholders/26.jpg" alt="1" />
 	<img class="bottom" src="design/images/section/bottom.png" alt="top" width="940" height="25" />
 </section>
 
