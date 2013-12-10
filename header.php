@@ -46,13 +46,15 @@
 		<div class="menu">
 			<a href="#"><img class="logo" src="design/images/header/logo.png" alt="logo" width="144" height="146"></a>
 			<ul class="inline pull-right">
-				<li><a href="#activities">Activities</a></li>
+				<!--
+<li><a href="#activities">Activities</a></li>
 				<li><a href="#decorating">Decorating Classes</a></li>
 				<li><a href="#details">Details</a></li>
 				<li><a href="#stalls">Exhibitors</a></li>
+-->
 				<li><a href="http://www.facebook.com/CakeExpo" target="_blank">Like us</a></li>
-				<li><a href="mailto:hello@cakeexpo.com.au">Email Us</a></li>
-				<li><a class="buy" href="http://www.eventbrite.com.au/s/dHin">Buy Tickets</a></li>
+				<li><a class="buy" href="mailto:hello@cakeexpo.com.au">Email Us</a></li>
+				<!-- <li><a class="buy" href="http://www.eventbrite.com.au/s/dHin">Buy Tickets</a></li> -->
 			</ul>
 		</div>
 	</div>

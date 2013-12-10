@@ -30,6 +30,11 @@ p.buy_ticket{display: block; margin-bottom:40px; text-align: center;}
 p.buy_ticket a{background:#0088cc; padding:20px; font-size:24px; border-radius: 10px; color:#fff; }
 p.buy_ticket a:hover{text-decoration: none; opacity: 0.8;}
 
+
+
+/* thank you */
+.thankyou{padding-top:200px; padding-bottom:20px;}
+
 /* navbar header */
 header{position: fixed; width:100%; z-index: 10000; top:80px; text-align: left;}
 header .menu{width:940px; height:60px; display: block; background:rgba(244,220,156,0.6); margin: 0 auto;position: relative; border-radius: 3px; border:1px solid #dbb655;}
