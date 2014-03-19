@@ -32,8 +32,13 @@
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 	
 	<!-- typekit -->
+<!--
 	<script type="text/javascript" src="//use.typekit.net/ahb1aqa.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+-->
+
+<!-- google fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Lobster|Open+Sans:400,800,300' rel='stylesheet' type='text/css'>
 
 	
 </head>

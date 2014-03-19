@@ -37,7 +37,7 @@ p.buy_ticket a:hover{text-decoration: none; opacity: 0.8;}
 
 /* navbar header */
 header{position: fixed; width:100%; z-index: 10000; top:80px; text-align: left;}
-header .menu{width:940px; height:60px; display: block; background:rgba(244,220,156,0.6); margin: 0 auto;position: relative; border-radius: 3px; border:1px solid #dbb655;}
+header .menu{height:60px; display: block; background:rgba(244,220,156,0.6); margin: 0 auto;position: relative; border-radius: 3px; border:1px solid #dbb655;}
 header .menu .logo{position: absolute;top:-40px; left:-20px;}
 header .menu ul li{padding-top:20px;}
 header .menu ul li a{padding:10px 20px; font-size:19px; color:#29261e}
@@ -94,3 +94,13 @@ header .menu ul li a.buy{background:#e88582; color:#fff; padding:10px; border-ra
 .partners .partner{padding:10px;}
 
 footer p{color:#f7eecf; text-align: center;}
+
+
+/* coming soon */
+
+h1{font-family: 'Lobster', cursive; color:#fff; text-transform: none; font-size: 60px; padding-bottom:40px; }
+h2{font-family: 'Open Sans', sans-serif; color:#fff; font-size: 20px; letter-spacing: 1px; font-weight: 900;}
+{text-transform: lowercase; font-size: 13px; letter-spacing: 0;}
+a{color:#fff; text-decoration: underline;}
+.coming_soon{margin-top:260px; background: #e38180; padding:20px; margin-bottom:20px;}
+.coming_soon .white_stripe{background:#e38180; border: 5px solid #fff; padding:80px;}
