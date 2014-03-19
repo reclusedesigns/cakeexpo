@@ -57,8 +57,8 @@
 				<li><a href="#details">Details</a></li>
 				<li><a href="#stalls">Exhibitors</a></li>
 -->
-				<li><a href="http://www.facebook.com/CakeExpo" target="_blank">Like us</a></li>
-				<li><a class="buy" href="mailto:hello@cakeexpo.com.au">Email Us</a></li>
+				<li><a href="http://www.facebook.com/CakeExpo" class="facebook" target="_blank"><i class="icon ss-like"></i> Like us</a></li>
+				<li><a class="buy" href="mailto:hello@cakeexpo.com.au"><i class="icon ss-mail"></i> Email Us</a></li>
 				<!-- <li><a class="buy" href="http://www.eventbrite.com.au/s/dHin">Buy Tickets</a></li> -->
 			</ul>
 		</div>
