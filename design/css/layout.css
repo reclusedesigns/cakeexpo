@@ -98,7 +98,7 @@ footer p{color:#f7eecf; text-align: center;}
 
 /* coming soon */
 
-h1{font-family: 'Lobster', cursive; color:#fff; text-transform: none; font-size: 60px; padding-bottom:40px; }
+h1{font-family: 'Lobster', cursive; color:#fff; text-transform: none; font-size: 60px; padding-bottom:40px; line-height: 50px;}
 h2{font-family: 'Open Sans', sans-serif; color:#fff; font-size: 20px; letter-spacing: 1px; font-weight: 900;}
 header .menu ul li a{font-family: 'Open Sans', sans-serif; font-weight: bold;}
 {text-transform: lowercase; font-size: 13px; letter-spacing: 0;}
