@@ -5,4 +5,6 @@ jQuery(document).ready(function($) {
 		$.scrollTo($($(e.currentTarget).attr('href')), 300);
 	});
 	
+	$('#myModal').modal('toggle')
+	
 });
