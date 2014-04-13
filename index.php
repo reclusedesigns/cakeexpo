@@ -28,8 +28,8 @@
 					</div>
 					<!--End mc_embed_signup-->
 				<ul class="actions unstyled inline pull-right">
-					<li><a href="design/pdf/info.pdf" target="_blank"><i class="icon ss-pdf"></i> Stallholder Expression of Interest</a></li>
-					<!-- <li><a href="https://docs.google.com/forms/d/1l3WaBoz8tcMf7jJyCvta2Ij_FidFWr6qB1_d0YmfRh0/viewform"><i class="icon ss-form"></i> Stallholder Registration</a></li> -->
+					<li><a href="design/pdf/info.pdf" target="_blank"><i class="icon ss-pdf"></i> Stallholder Information</a></li>
+					<li><a href="https://docs.google.com/forms/d/1l3WaBoz8tcMf7jJyCvta2Ij_FidFWr6qB1_d0YmfRh0/viewform"><i class="icon ss-form"></i> Stallholder Expression of Interest</a></li>
 				</ul>
 			</div>
 		</div>
