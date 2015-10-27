@@ -3,7 +3,7 @@
 <div class="container">
 	<div class="coming_soon">
 		<div class="white_stripe">
-			<h1>Melbourne Cake Expo 2014</h1>
+			<h1>Melbourne Cake Expo 2015</h1>
 			<h2>More delicious and delightful than ever!</h2>
 			<img src="design/images/coming_soon/tiny_cake.jpg" alt="tiny_cake" width="137" height="42" />
 			<h2>Coming soon</h2>
@@ -12,7 +12,7 @@
 				<!-- Begin MailChimp Signup Form -->
 					<div id="mc_embed_signup">
 					<form action="http://cakeexpo.us7.list-manage2.com/subscribe/post?u=bc3c3f7b6ef59d33e00c66a68&amp;id=8b78fafbb7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-						
+
 					<div class="mc-field-group">
 						<p class="form_title">Join our mailing list!</p>
 						<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="email@example.com" style="padding:10px; float:left; margin-left:0; position:relative;">
